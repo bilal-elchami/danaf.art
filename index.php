@@ -1,1 +1,1 @@
-<?php include_once(".web/viewer.html"); ?>
+<?php include_once("web/viewer.html"); ?>
